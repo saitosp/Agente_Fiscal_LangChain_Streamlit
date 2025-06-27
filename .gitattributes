@@ -1,0 +1,5 @@
+* text=auto
+*.png binary
+*.jpg binary
+*.sln text eol=crlf  # Para arquivos que devem ter CRLF
+*.sh text eol=lf     # Para arquivos que devem ter LF
